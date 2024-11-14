@@ -1,7 +1,7 @@
 # MovieGold
 Movie review platform made with Java, React, JavaScript, and CSS.
 
-You can look through movies, trailers, and add and view reviews that are saved to the database through MongoDB
+You can look through movies, trailers, and add and view reviews that are saved to the database through MongoDB.
 
 You will need to set up your own database with MongoDB in order to use this on your own machine.
 
